@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "vite": "^4.3.9"
+  },
+  "name": "new-work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
